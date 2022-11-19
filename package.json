@@ -7,7 +7,7 @@
   ],
   "version": "1.6.0-rc.2",
   "description": "Swiper component for React Native.",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "commit": "npx git-cz",
     "start": "react-native start",
@@ -44,14 +44,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leecade/react-native-swiper.git"
+    "url": "git+https://github.com/amaapp333/myNews.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leecade/react-native-swiper/issues"
+    "url": "https://github.com/amaapp333/myNews/issues"
   },
-  "homepage": "https://github.com/leecade/react-native-swiper#readme",
+  "homepage": "https://github.com/amaapp333/myNews#readme",
   "devDependencies": {
     "babel-eslint": "^8.0.1",
     "rimraf": "^2.5.4",
