@@ -43,7 +43,7 @@ export default class extends Component {
       items: [
         { title: 'Hello Swiper', css: styles.slide1 },
         { title: 'Beautiful', css: styles.slide2 },
-        { title: 'And simple', css: styles.slide3 }
+        { title: 'Simple', css: styles.slide3 }
       ]
     })
   }
